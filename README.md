@@ -1,6 +1,6 @@
-# Irvin Carreon – Data Science Portfolio
+# Irvin Carreon's Data Science Portfolio
 
-Personal portfolio website showcasing machine learning and analytics projects.
+Personal portfolio showcasing machine learning and analytics projects.
 
 Live site:
 https://irvincarreon.github.io
