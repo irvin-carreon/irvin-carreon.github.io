@@ -3,4 +3,4 @@
 Personal portfolio showcasing machine learning and analytics projects.
 
 Live site:
-https://irvincarreon.github.io
+https://irvin-carreon.github.io
